@@ -1,0 +1,87 @@
+# ===========================
+# SISTEMAS OPERATIVOS
+# ===========================
+
+# --- Windows ---
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ===========================
+# GAMEMAKER STUDIO 2 / 2024
+# ===========================
+
+# Archivos y carpetas temporales
+*.yyz
+*.yymps
+*.zip
+*.exe
+*.dll
+*.dylib
+*.so
+*.pdb
+*.db
+*.cache
+*.local
+*.log
+*.tmp
+*.bak
+*.old
+
+# Cachés y compilaciones
+.yyc/
+output/
+cache/
+Temp/
+extensions/datafiles/
+build/
+configs/
+android/
+ios/
+html5/
+windows/
+mac/
+linux/
+
+# Configuración del usuario local
+*.yyp.user
+*.user
+*.iml
+.idea/
+.vscode/
+*.suo
+*.userosscache
+*.userprefs
+
+# Archivos de proyecto autogenerados
+*.resource_order
+

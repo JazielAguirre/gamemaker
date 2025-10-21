@@ -1,0 +1,8 @@
+# Fuerza LF (formato Unix) para todos los scripts de GameMaker
+*.gml text eol=lf
+*.yy text eol=lf
+*.yyp text eol=lf
+*.json text eol=lf
+
+# Fuerza CRLF solo en scripts de Windows (si llegas a tener alguno)
+*.bat text eol=crlf
