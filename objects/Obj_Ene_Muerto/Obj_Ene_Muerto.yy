@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"Obj_Ene_Muerto",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Obj_Ene_Muerto",
   "overriddenProperties":[],
@@ -26,7 +29,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Spr_Enemigo_Muerto",
     "path":"sprites/Spr_Enemigo_Muerto/Spr_Enemigo_Muerto.yy",

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sonido_muerte_ene",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.28734693,
+  "name":"sonido_muerte_ene",
+  "parent":{
+    "name":"Primer-Juego",
+    "path":"Primer-Juego.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sonido_muerte_ene.mp3",
+  "type":0,
+  "volume":1.0,
+}

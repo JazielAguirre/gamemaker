@@ -12,8 +12,8 @@ hspeed = -hspeed; //Camine en sentido contrario
 }
 
 // Cambiar colision del sprite segun la direccion
-if (hspeed >0 ) image_xscale =1;
-else if (hspeed <0)  image_xscale = -1;
+if (hspeed >0 ) image_xscale =3;
+else if (hspeed <0)  image_xscale = -3;
 }
 
 if  (estado == 0) {
@@ -36,8 +36,10 @@ if (enemigo != noone && vspeed > 0)  {
 	
 	//enemigo aplastado
 	with (enemigo) {
-		if estado == 1 {
-			estado =0;
-		}
-	}
+    if estado == 1 {
+        estado = 0;
+        // Sumar puntaje al jugador
+        other.global.score += 100;
+    }
+}
 }

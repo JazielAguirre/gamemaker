@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sonido_victoria",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.4293878,
+  "name":"sonido_victoria",
+  "parent":{
+    "name":"Primer-Juego",
+    "path":"Primer-Juego.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sonido_victoria.mp3",
+  "type":0,
+  "volume":1.0,
+}
